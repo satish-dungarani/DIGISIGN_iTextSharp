@@ -1,0 +1,24 @@
+Value cannot be null.
+Parameter name: sInvalid length for a Base-64 char array or string.Invalid length for a Base-64 char array or string.Key does not exist.
+The index can't be less then zero or greater then Count.
+Parameter name: indexThe index can't be less then zero or greater then Count.
+Parameter name: indexKey does not exist.
+The handle is invalid.
+The index can't be less then zero or greater then Count.
+Parameter name: indexContents of file stream is emptyContents of file stream is emptyContents of file stream is emptyValue cannot be null.
+Parameter name: crossTableValue cannot be null.
+Parameter name: crossTableValue cannot be null.
+Parameter name: crossTableValue cannot be null.
+Parameter name: crossTableObject reference not set to an instance of an object.Object reference not set to an instance of an object.Value cannot be null.
+Parameter name: crossTableUnable to cast object of type 'Syncfusion.Pdf.Interactive.PdfSignatureField' to type 'Syncfusion.Pdf.Parsing.PdfLoadedField'.Cannot access a closed Stream.Fatal Error at 202539.
+Cannot access a closed Stream.Cannot access a closed Stream.Fatal Error at 202303.
+Object reference not set to an instance of an object.Object reference not set to an instance of an object.Object reference not set to an instance of an object.Object reference not set to an instance of an object.indexindexObject reference not set to an instance of an object.Object reference not set to an instance of an object.Object reference not set to an instance of an object.indexObject reference not set to an instance of an object.indexThe index can't be less then zero or greater then Count.
+Parameter name: indexThe index can't be less then zero or greater then Count.
+Parameter name: indexObject reference not set to an instance of an object.Object reference not set to an instance of an object.Object reference not set to an instance of an object.Object reference not set to an instance of an object.Cannot access a closed file.Object reference not set to an instance of an object.indexObject reference not set to an instance of an object.Object reference not set to an instance of an object.indexContents of file stream is emptyFatal Error at 202539.
+Fatal Error at 202539.
+Fatal Error at 202539.
+Object reference not set to an instance of an object.Object reference not set to an instance of an object.Object reference not set to an instance of an object.The handle is invalid.
+indexindexFile doesn't exist
+Parameter name: filenameFatal Error at 204564.
+The index can't be less then zero or greater then Count.
+Parameter name: indexThe process cannot access the file 'G:\Satish\DIGISIGN_API\DIGISIGN_API\Files\Invoice_WithSign.pdf' because it is being used by another process.The process cannot access the file 'G:\Satish\DIGISIGN_API\DIGISIGN_API\Files\Invoice_WithSign.pdf' because it is being used by another process.Contents of file stream is emptyContents of file stream is emptyObject reference not set to an instance of an object.Object reference not set to an instance of an object.Object reference not set to an instance of an object.The process cannot access the file 'G:\Satish\DIGISIGN_iTextSharp\DIGISIGN_iTextSharp\Files\Invoice_WithSign.pdf' because it is being used by another process.The process cannot access the file 'G:\Satish\DIGISIGN_iTextSharp\DIGISIGN_iTextSharp\Files\Invoice_WithSign.pdf' because it is being used by another process.The original document was reused. Read it again from file.The original document was reused. Read it again from file.The process cannot access the file 'G:\Satish\DIGISIGN_iTextSharp\DIGISIGN_iTextSharp\Files\Invoice_WithSign.pdf' because it is being used by another process.The process cannot access the file 'G:\Satish\DIGISIGN_iTextSharp\DIGISIGN_iTextSharp\Files\Invoice_WithSign.pdf' because it is being used by another process.The process cannot access the file 'G:\Satish\DIGISIGN_iTextSharp\DIGISIGN_iTextSharp\Files\Invoice_WithSign.pdf' because it is being used by another process.The process cannot access the file 'G:\Satish\DIGISIGN_iTextSharp\DIGISIGN_iTextSharp\Files\Invoice_WithSign.pdf' because it is being used by another process.The original document was reused. Read it again from file.Document already pre closed.The original document was reused. Read it again from file.
